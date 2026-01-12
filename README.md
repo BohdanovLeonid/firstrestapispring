@@ -33,6 +33,5 @@ The project is divided into specific packages for better maintainability:
 * **Exception Handling**: Custom `ProductNotFoundException` returns a clean 404 error instead of a system crash.
 
 ## Screenshots
-> **Note to student:** Place your Swagger and H2 Console screenshots here.
 ![Swagger UI](screenshots/swagger.png)
 ![H2 Console](screenshots/h2_console.png)
